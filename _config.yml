@@ -5,10 +5,8 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Junaid
 last_name: Hossain
-contact_note: >
-  The best way to reach me is mailing.
-description: >
-Electrical Engineer | Data Scientist | Future AI-for-Energy Researcher
+contact_note: The best way to reach me is mailing.
+description: Electrical Engineer | Data Scientist | Future AI-for-Energy Researcher
   # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: electrical engineering,  data science,  machine learning,  energy systems,  smart grid,  predictive maintenance  # add your own keywords or leave empty
