@@ -65,5 +65,44 @@ Here's the code for the last row of images above:
   </div>
 </div>
 ```
+---
+
+layout: page
+title: Master's Project
+description: Applied Statistics and Data Science capstone project
+img:
+importance: 1
+category: research
+------------------
+
+## Overview
+
+This project was completed as part of my Professional Master's degree in Applied Statistics and Data Science. The objective was to apply statistical and machine learning techniques to solve real-world problems through data-driven analysis.
+
+## Objectives
+
+* Data collection and preprocessing
+* Exploratory data analysis
+* Statistical modeling
+* Machine learning model development
+* Performance evaluation
+* Interpretation of results
+
+## Methods and Tools
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Statistical Analysis
+* Data Visualization
+
+## Results
+
+The project demonstrates the application of modern data science methodologies to practical analytical problems and highlights the potential of machine learning approaches for decision support and prediction.
+
+## Future Work
+
+Future research directions include the application of advanced machine learning and artificial intelligence techniques to energy systems, predictive maintenance, and smart grid analytics.
 
 {% endraw %}
