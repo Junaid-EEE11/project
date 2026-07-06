@@ -77,5 +77,35 @@ Here's the code for the last row of images above:
   </div>
 </div>
 ```
+---
+
+layout: page
+title: Power Distribution Experience
+description: Professional engineering experience at DPDC
+importance: 3
+category: work
+--------------
+
+## Assistant Engineer
+
+Dhaka Power Distribution Company Ltd. (DPDC)
+
+### Responsibilities
+
+* Operation and maintenance of electrical substations
+* Grid reliability and system monitoring
+* Preventive and corrective maintenance
+* Technical team supervision
+* Data analysis and reporting automation
+* Customer service quality improvement
+
+### Skills Developed
+
+* Power system operations
+* Electrical equipment maintenance
+* Reliability engineering
+* Technical leadership
+* Data analysis
+* Problem solving
 
 {% endraw %}
