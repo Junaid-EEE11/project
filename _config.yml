@@ -11,13 +11,7 @@ description: >
 Electrical Engineer | Data Scientist | Future AI-for-Energy Researcher
   # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-keywords: electrical engineering,
-  data science,
-  machine learning,
-  energy systems,
-  smart grid,
-  predictive maintenance
-  # add your own keywords or leave empty
+keywords: electrical engineering,  data science,  machine learning,  energy systems,  smart grid,  predictive maintenance  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
