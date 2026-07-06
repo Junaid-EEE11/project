@@ -77,5 +77,28 @@ Here's the code for the last row of images above:
   </div>
 </div>
 ```
+---
+
+layout: page
+title: Research Interests
+description: Future research directions
+importance: 2
+category: research
+------------------
+
+## Artificial Intelligence for Energy Systems
+
+I am interested in applying machine learning and artificial intelligence methods to improve the reliability, efficiency, and sustainability of energy systems.
+
+### Areas of Interest
+
+* Predictive Maintenance
+* Time Series Forecasting
+* Smart Grid Analytics
+* Load Forecasting
+* Power System Reliability
+* Energy Optimization
+* Deep Learning for Energy Applications
+* Data-Driven Decision Making
 
 {% endraw %}
